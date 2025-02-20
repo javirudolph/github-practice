@@ -20,7 +20,7 @@ Below, you will find a few tasks that will help you get started with your GitHub
 **Did you know you can edit files directly from the GitHub website?** I wouldn't recommend this for running code, but if you need to annotate or include comments on scripts, edit READMEs, etc, the website is a good place to start and get familiar. 
 
 1. As you saw in the [hello-world guide](https://docs.github.com/en/get-started/start-your-journey/hello-world), create a new branch for this github-practice repo. You can call it [yourname]-branch.
-2. Once on your branch, you can find the README.md file and edit it.
+2. Once on your branch, you can find the [practice-script](https://github.com/javirudolph/github-practice/blob/main/practice_script.md) and make some changes.
 3. Commit the changes to your branch.
 4. Now that your branch has your changes, open a pull request ([step 4 in the guide](https://docs.github.com/en/get-started/start-your-journey/hello-world#step-4-open-a-pull-request)).
 5. Review your changes and create the pull request. This will altert the repo's owner that changes have been made and will check to see if those changes can be merged to the main branch. Once changes are merged, you can safely delete the branch.
