@@ -55,8 +55,9 @@ If these commands return values (not errors), you're ready to go!
 
 **Did you know you can edit files directly on GitHub's website?** This is perfect for:
 - Quick README updates
-- Adding comments or documentation
+- Adding comments or documentation - we use [issues](https://github.com/javirudolph/github-practice/issues/4)
 - Learning the basics before using Git locally
+- Check out one of the [issues](https://github.com/javirudolph/github-practice/issues/5) for instructions
 
 **Try it now:**
 1. Browse to any file in this repository (like [practice_script.md](https://github.com/javirudolph/github-practice/blob/main/practice_script.md))
@@ -89,9 +90,11 @@ main branch (stable, working code)
     └── another-feature (someone else's work)
 ```
 
+
+
 ### Step 3: Your First Branch and Pull Request
 
-Follow the [GitHub hello-world guide](https://docs.github.com/en/get-started/start-your-journey/hello-world) which walks you through:
+Check out [this issue](https://github.com/javirudolph/github-practice/issues/6) and create a branch! Or follow [GitHub hello-world guide](https://docs.github.com/en/get-started/start-your-journey/hello-world) which walks you through:
 
 1. **Creating a branch**
    - Click the branch dropdown (says "main")
@@ -122,7 +125,7 @@ Issues are GitHub's way to track tasks, bugs, and discussions.
 
 **Try it:**
 1. Go to the [Issues tab](https://github.com/javirudolph/github-practice/issues)
-2. Find [Issue #4](https://github.com/javirudolph/github-practice/issues/4)
+2. Find [Issue](https://github.com/javirudolph/github-practice/issues/9)
 3. Follow the instructions to practice commenting
 
 ---
@@ -237,6 +240,8 @@ Open an [issue](https://github.com/javirudolph/github-practice/issues) and I'll 
 
 ---
 
-## Acknowledgments
+## About
 
-This repository is designed to support computational literacy in ecology and natural resource management. For more resources, visit the [Computational Ecology and Literacy (CEL) resources](https://github.com/javirudolph).
+This repository is maintained by Javi Rudolph, Computational Literacy Librarian at UF Libraries, and is designed to support computational literacy in ecology and natural resource management. 
+
+For more resources on reproducible research in ecology, visit my [website](https://javirudolph.github.io) or check out my [other repositories](https://github.com/javirudolph).
