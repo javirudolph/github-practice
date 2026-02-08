@@ -199,6 +199,7 @@ A:
 - Start with a verb: "Add", "Fix", "Update", "Remove"
 - Be specific: ❌ "Update code" -> ✅ "Add error handling to data import function"
 - Keep it under 50 characters for the first line
+- Just give up and write your feelings... hey, it happens. I have multiple terrible commit messages like 'random', 'changes', etc. Don't recommend, but it happens, we try to do better.
 
 **Q: I made a mistake in my last commit. Can I fix it?**  
 A: Yes! If you haven't pushed yet:
@@ -218,6 +219,8 @@ git log --oneline   # See commit history
 ---
 
 ## Additional Resources
+
+General best practices [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories)
 
 ### For R Users
 - [Happy Git and GitHub for the useR](https://happygitwithr.com/) - Chapters 1-8 for setup
